@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+.body{
+    background-color: rgba(105, 98, 98, 0.075);
+}
+.logo{
+    position: relative;
+    font-family: 'Inter', sans-serif;
+    border-radius: 15px;
+    transition-duration: 2s;
+}
+.cardo{
+    font-family: 'Inter', sans-serif;
+    position: relative;
+    background-color: white;
+    box-shadow: -14px 40px 126px 12px rgba(0,0,0,0.8);
+    -webkit-box-shadow: -14px 40px 126px 12px rgba(0,0,0,0.8);
+    -moz-box-shadow: -14px 40px 126px 12px rgba(0,0,0,0.8);
+    border-radius: 0.7rem;
+    transition-duration: 0.5s;
+    display: flex;
+    top: 4rem;
+    left: 2rem;
+}
+.card-title{
+    position: relative;
+    top: 0%;
+    font-size: 2.5rem;
+    transition-duration: 0.5s;
+}
+.input{
+    position: relative;
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    padding: 0.5rem;
+    border-radius: 8px;
+    border-color: burlywood;
+    margin-bottom: 1rem;
+    
+}
+.hr{
+    position: relative;
+    width: 15.5rem;
+    height: 10px;
+}
+#create{
+    background-color: green;
+    border: green;
+    width: 100%;
+    position:relative;
+}
+#signup{
+    position: relative;
+    
+}
+.modal-content{
+    box-shadow: -14px 40px 126px 12px rgba(0,0,0,0.8);
+    -webkit-box-shadow: -14px 40px 126px 12px rgba(0,0,0,0.8);
+    -moz-box-shadow: -14px 40px 126px 12px rgba(0,0,0,0.8);
+    padding-left: 15px;
+    border-radius: 1rem;
+    transition-duration: 0.5s;
+}
+.input1{
+    position: relative;
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    padding: 0.5rem;
+    border-radius: 8px;
+    border-color:black;
+    margin-bottom: 1rem;
+    transition-duration: 0.5s;
+}
+.fcontainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+}

@@ -1,0 +1,236 @@
+
+.logo {
+border-radius: 50%;
+height: 4rem;
+width: 4rem;
+left: 5rem;
+right: 5rem;
+}
+
+.navbar {
+font-family: 'Inter', sans-serif;
+font-size: 1.1rem;
+}
+
+.navbar-brand {
+font-weight: 500;
+}
+
+a {
+color: black;
+}
+
+.username {
+display: block;
+list-style-type: none;
+margin-right: 10rem;
+margin-top: 0.6rem;
+}
+
+.body {
+font-family: 'Roboto', sans-serif;
+overflow-x: hidden;
+background-color: whitesmoke;
+}
+
+.mainx {
+background-image: url('imgfile/backgroundforindex.jpg');
+height: 620px;
+width: 100%;
+background-position: 0%;
+background-size: cover;
+}
+
+.subcontainer {
+background-blend-mode: darken;
+}
+
+.mainheader {
+font-size: 38px;
+z-index: 5;
+font-weight: 600;
+text-align: center;
+color: black;
+letter-spacing: 0.15rem;
+word-spacing: 0.4rem;
+}
+
+.selectroute {
+font-family: 'Inter', sans-serif;
+border: 3px solid black;
+border-radius: 9px;
+width: 21rem;
+text-align: center;
+float: left;
+margin-left: 5%;
+background-color: rgba(0, 0, 0, .5);
+}
+
+.inputforroute {
+width: 15rem;
+height: 3rem;
+padding: 0.7rem;
+border-radius: 5px;
+letter-spacing: 0.2vh;
+margin-bottom: 1rem;
+font-weight: bolder;
+}
+
+.fixedroute {
+text-align: center;
+list-style-type: none;
+justify-content: center;
+height: 4.5rem;
+}
+
+.tagline {
+text-align: center;
+color: white;
+padding-top: 1.3rem;
+}
+
+.gg {
+margin-top: 0;
+height: 5px;
+background: 2px solid black;
+}
+
+.hr {
+margin-top: 0.5rem;
+position: relative;
+border: none;
+height: 50px;
+border-bottom: 1px solid #1f1209;
+box-shadow: 0 20px 20px -20px #333;
+}
+
+.forfooter {
+margin-top: 3rem;
+}
+
+.detailingforshare {
+padding-top: 2rem;
+text-align: center;
+overflow: visible;
+text-align: center;
+background-color: #333;
+}
+
+.para {
+text-align: center;
+}
+
+.mainfooter {
+background-color: #333;
+color: white;
+letter-spacing: 0.1rem;
+height: auto;
+}
+
+.socialdiv {
+text-align: center;
+width: 100%;
+}
+
+.socialul {
+list-style-type: none;
+display: inline-block;
+text-align: center;
+justify-content: center;
+}
+
+.socialli {
+display: inline-block;
+text-align: center;
+margin-bottom: 2rem;
+}
+
+.socialimg {
+width: 3rem;
+height: 3rem;
+border-radius: 50%;
+margin-right: 2.5rem;
+}
+
+#imgfooter {
+transition: transform .9s ease-in-out;
+}
+
+#imgfooter:hover {
+transform: rotate(360deg);
+width: 3.5rem;
+height: 3.5rem;
+}
+
+.aboutus {
+text-align: center;
+justify-content: center;
+}
+
+.logo-footer {
+text-align: center;
+width: 15rem;
+height: 15rem;
+}
+
+.footer-last {
+margin-right: 3.5rem;
+margin-left: 1.9rem;
+margin-top: 5rem;
+}
+
+.mapdriver {
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+position: relative;
+background-image: url('imgfile/backgroundforindex.jpg');
+background-size: cover;
+}
+
+.mapfordirection {
+position: relative;
+width: 100%;
+height: 500px;
+border: 3px solid black;
+top: 3rem;
+text-align: center;
+}
+
+.drivers {
+font-family: 'Inter', sans-serif;
+}
+
+.rides {
+position: relative;
+top: 2rem;
+}
+
+.avldr {
+position: relative;
+font-weight: 500;
+text-align: center;
+font-size: 1.1rem;
+}
+
+.panel-body{
+border: 1px black;
+border-radius: 10px;
+text-align: center;
+
+}
+.noride{
+    text-align: center;
+    justify-content: center;
+    font-size: 2rem;
+}
+#cardy{
+    position: relative;
+    text-align:center; 
+    border-radius: 3rem;
+    margin: auto;
+    box-shadow: -5px 5px 7px  rgba(0,0,0,0.3);
+    -webkit-box-shadow: -5px 5px 7px  rgba(0,0,0,0.3);
+    -moz-box-shadow: -5px 5px 7px  rgba(0,0,0,0.3);
+    top: 3rem;
+}
